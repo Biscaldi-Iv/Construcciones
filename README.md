@@ -16,7 +16,11 @@ a detallar.
 
 Los materiales también serán detallados en el presupuesto con su cantidad, precio unitario y precio total.
 
-El presupuesto final será enviado al cliente y en el caso de que necesite cambios el presupuesto será modificado según los requerimientos de este.
+El presupuesto final será enviado al cliente y este puede aprovarlo o rechazarlo..
 
-![image](https://user-images.githubusercontent.com/80866680/147144940-b8911499-e5c9-4fed-804b-897e083b95af.png)
+Modelo de datos: 
 
+![Captura de pantalla de 2022-03-23 15-22-39](https://user-images.githubusercontent.com/80866680/159770245-29b0b3b6-5923-4e50-be14-1e2a9077ea26.png)
+
+Diagrama de clases:
+![trabajo-Diagrama de Clases drawio](https://user-images.githubusercontent.com/80866680/159770320-c187e9dc-07e1-414a-8040-93ded843dfe6.png)
